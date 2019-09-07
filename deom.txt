@@ -1,3 +1,3 @@
 void main(){
- 	printf("person c");	
+ 	printf("person c+b+a");	
 }
